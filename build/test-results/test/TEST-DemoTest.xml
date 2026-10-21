@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-10-20T11:15:05" hostname="Mandisi_Tshezi" time="0.02">
+<testsuite name="DemoTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-10-21T09:05:20" hostname="Mandisi_Tshezi" time="0.016">
   <properties/>
-  <testcase name="testMainValidTriangle" classname="DemoTest" time="0.02"/>
+  <testcase name="testMainValidTriangle" classname="DemoTest" time="0.014"/>
+  <testcase name="testViolatesFirstInequality" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsoscelesTriangle" classname="DemoTest" time="0.0"/>
+  <testcase name="testScaleneTriangle" classname="DemoTest" time="0.0"/>
+  <testcase name="testViolatesThirdInequality" classname="DemoTest" time="0.0"/>
+  <testcase name="testWithZero" classname="DemoTest" time="0.0"/>
+  <testcase name="testBoundarySumEqualsSideA" classname="DemoTest" time="0.0"/>
+  <testcase name="testBoundarySumEqualsSideB" classname="DemoTest" time="0.0"/>
+  <testcase name="testBoundarySumEqualsSideC" classname="DemoTest" time="0.0"/>
+  <testcase name="testViolatesSecondInequality" classname="DemoTest" time="0.0"/>
+  <testcase name="testEquilateralTriangle" classname="DemoTest" time="0.0"/>
+  <testcase name="testWithNegativeNumbers" classname="DemoTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
